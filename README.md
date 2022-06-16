@@ -1,6 +1,6 @@
 # Tabs with React
 
-[See the page]('http://emreozturanli.github.io/Tabs-React')
+[See the page](https://emreozturanli.github.io/Tabs-React/)
 
 ### This is one of the tasks in John Smilga's React course on Udemy. 
 
